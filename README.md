@@ -16,20 +16,16 @@ A metodologia, estruturada segundo os frameworks <strong>CRISP-DM</strong> e <st
 Espera-se demonstrar que <strong>algoritmos adaptativos incrementais</strong> apresentam vantagens significativas em ambientes não estacionários, contribuindo para o avanço teórico e prático em predição de séries temporais energéticas.
 </p>
 
----
 
 ## 🧩 Metodologia
 
 - Melhorar o suporte de navegadores  
 - Adicionar mais integrações  
 
----
-
 ## 🧠 Stack Utilizada
 
 Uma stack de ML é composta por diversas categorias de ferramentas que cobrem o ciclo de vida completo de um projeto — desde a coleta de dados até a avaliação dos modelos.
 
----
 
 ### 🧱 1. Aquisição e Armazenamento de Dados
 
@@ -37,7 +33,6 @@ Ferramentas e infraestruturas para **coletar, armazenar e gerenciar dados**.
 
 - **Dataset Público:** Python (pandas, Dask, PySpark) 
 
----
 
 ### 🧹 2. Engenharia e Processamento de Dados
 
@@ -47,8 +42,6 @@ Para **limpeza, transformação e pré-processamento** dos dados.
 - **Frameworks distribuídos:** Apache Spark, Ray, Flink  
 - **Feature stores:** Feast, Tecton, Hopsworks
 
----
-
 ### 🤖 3. Modelagem e Treinamento
 
 Ambientes e frameworks usados para **criar e treinar modelos de ML**.
@@ -57,9 +50,21 @@ Ambientes e frameworks usados para **criar e treinar modelos de ML**.
 - **Ambientes de experimentação:** Jupyter, Colab, VS Code, MLflow, Weights & Biases  
 - **Gerenciamento de experimentos:** MLflow, Neptune.ai, Comet.ml
 
----
-
 ### 🧮 4. Validação e Avaliação
+
+Ferramentas para **avaliar performance e garantir qualidade** do modelo.
+
+- **Validação de dados e modelos:** Great Expectations, Deepchecks  
+- **Métricas e visualização:** matplotlib, seaborn, Plotly, SHAP, LIME
+
+## 📈 Resultados
+
+Ferramentas para **avaliar performance e garantir qualidade** do modelo.
+
+- **Validação de dados e modelos:** Great Expectations, Deepchecks  
+- **Métricas e visualização:** matplotlib, seaborn, Plotly, SHAP, LIME
+
+## 🎯 Conclusões
 
 Ferramentas para **avaliar performance e garantir qualidade** do modelo.
 
@@ -71,7 +76,7 @@ Ferramentas para **avaliar performance e garantir qualidade** do modelo.
 ## 👨‍💻 Autores
 
 - [Kaique Moraes](https://www.linkedin.com/in/kaiquemoraesti/)
-
+  
 ---
 
 ## 🪪 Licença
