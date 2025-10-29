@@ -22,7 +22,7 @@ Espera-se demonstrar que <strong>algoritmos adaptativos incrementais</strong> ap
 - Melhorar o suporte de navegadores  
 - Adicionar mais integrações  
 
-## 🧠 Stack Utilizada
+## 🧠 Ambiente computacional e ferramentas
 
 Uma stack de ML é composta por diversas categorias de ferramentas que cobrem o ciclo de vida completo de um projeto — desde a coleta de dados até a avaliação dos modelos.
 
@@ -81,7 +81,7 @@ Ferramentas para **avaliar performance e garantir qualidade** do modelo.
 
 ## 🪪 Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 
