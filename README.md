@@ -87,6 +87,8 @@ Ferramentas para **avaliar performance e garantir qualidade** do modelo.
 
 ## 🏷️ Etiquetas
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Hoeffding%20Trees-orange.svg)]()
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Hoeffding%20Adaptatives%20Trees-red.svg)]()
+
