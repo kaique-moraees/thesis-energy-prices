@@ -59,17 +59,12 @@ Ferramentas para **avaliar performance e garantir qualidade** do modelo.
 
 ## 📈 Resultados
 
-Ferramentas para **avaliar performance e garantir qualidade** do modelo.
-
-- **Validação de dados e modelos:** Great Expectations, Deepchecks  
-- **Métricas e visualização:** matplotlib, seaborn, Plotly, SHAP, LIME
+-
 
 ## 🎯 Conclusões
 
-Ferramentas para **avaliar performance e garantir qualidade** do modelo.
+-
 
-- **Validação de dados e modelos:** Great Expectations, Deepchecks  
-- **Métricas e visualização:** matplotlib, seaborn, Plotly, SHAP, LIME
 
 ---
 
